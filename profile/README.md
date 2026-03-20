@@ -47,7 +47,7 @@ The autonomous control plane that monitors market conditions and manages protoco
 *   **📢 The Reporter**: Uses **Gemini AI** to translate technical events into human-readable **Guardian Logs**.
 
 ### 🤖 [olympus-agent](https://github.com/OlympusFinance/olympus-agent) (The Reasoning Layer)
-The intelligent interface between user intent and the Polkadot ecosystem.
+The intelligent interface between user intent and the Polkadot ecosystem using Polkadot Agent Kit.
 *   **🧠 Gemini Planner**: Transforms free-text queries into structured action plans with recommended tools and risk notes.
 *   **⚙️ Polkadot Runtime**: Initializes and manages Substrate chain APIs for Hydration, Asset Hub, and Paseo.
 *   **🔗 Olympus Context Client**: Bridges real-time protocol state, prices, and guardian logs into the AI's reasoning loop.
