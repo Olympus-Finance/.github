@@ -1,5 +1,5 @@
 # 🏛️ Olympus Finance
-### The Autonomous Leveraged Yield Protocol
+### The Autonomous Hedge Fund System
 
 ![Olympus Finance Banner](Banner.png)
 
